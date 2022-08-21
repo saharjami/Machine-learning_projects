@@ -1,1 +1,1 @@
-The score I obtained in Kaggle is: 0.66507
+0.66507
